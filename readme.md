@@ -2,7 +2,6 @@
 # 🐍 Python Foundations & Real-World Applications
 
 ![Instructor Authored](https://img.shields.io/badge/Author-Instructor%20Created-important)
-![Track](https://img.shields.io/badge/Track-Intermediate-blue)
 ![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Automation-yellow)
 ![Covers](https://img.shields.io/badge/Covers-Web%20Scraping%20%7C%20APIs-informational)
 ![Outcome](https://img.shields.io/badge/Outcome-Production%20Ready%20Scripts-purple)
