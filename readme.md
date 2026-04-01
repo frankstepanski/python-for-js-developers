@@ -1,5 +1,5 @@
 
-# 🐍 Python Foundations & Real-World Applications
+# 🐍 Python Foundations 
 
 ![Instructor Authored](https://img.shields.io/badge/Author-Instructor%20Created-important)
 ![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Automation-yellow)
@@ -22,7 +22,7 @@ A solid understanding of how JavaScript works — both in the browser and on the
 
 > This project builds on existing programming foundations and expands your skill set into a new language and ecosystem.
 
-## 🚀 What You’ll Learn — Python From Foundations to Practical Application
+## 🚀 Python From Foundations to Practical Application
 
 ### 🐍 Python Fundamentals
 
