@@ -68,7 +68,7 @@ Learn how Python runs outside the browser and interacts with servers.
 
 > Backend concepts you already know — requests, responses, routes, and data — still apply.
 
-### 🕷️ Final Project: Web Scraping With Python
+### Web Scraping With Python
 
 Bring everything together in a practical application.
 
