@@ -99,7 +99,7 @@ The goal isn’t just scraping data — it’s strengthening your ability to ada
     ├── environment/
     ├── fundamentals/
     ├── web-server/
-    ├── web-scraping/
+    ├── automations/
     └── README.md
 
 Each folder introduces concepts progressively and prepares you for the final scraping project.
