@@ -8,14 +8,14 @@
 
 ## 📘 Prerequisites
 
-This project is designed for students who already possess a **strong foundation in programming fundamentals**, particularly from a full-stack JavaScript background.
+This course is designed for students who already possess a **strong foundation in programming fundamentals**, particularly from a full-stack JavaScript background.
 
 You should be comfortable with:
 
 - Core programming concepts (variables, data types, conditionals, loops, functions)  
 - Working with arrays and objects (data structures)  
-- Basic problem-solving and algorithmic thinking  
 - Understanding how frontend and backend systems communicate  
+- Backend server fundamentals and API and database interactions
 - Using the command line and managing project files  
 
 A solid understanding of how JavaScript works — both in the browser and on the server (Node.js) — will make this transition significantly smoother.
@@ -98,10 +98,8 @@ The goal isn’t just scraping data — it’s strengthening your ability to ada
     python-project/
     ├── environment/
     ├── fundamentals/
-    ├── python-use-cases/
-    ├── server-basics/
+    ├── web-server/
     ├── web-scraping/
-    ├── requirements.txt
     └── README.md
 
 Each folder introduces concepts progressively and prepares you for the final scraping project.
