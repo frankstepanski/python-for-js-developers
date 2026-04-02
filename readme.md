@@ -152,4 +152,4 @@ This repository is protected under a custom proprietary license.
 Forking and cloning are permitted for personal study only.  
 No redistribution, publication, modification, or teaching use is allowed.  
 
-See the `LICENSE.md` file for all terms and restrictions.
+See the [LICENSE](./LICENSE.md) file for all terms and restrictions.
