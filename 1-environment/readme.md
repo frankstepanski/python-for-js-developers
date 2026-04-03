@@ -1,54 +1,5 @@
 # Python for JavaScript Developers
 
-## Why Python?
-
-You already know how to build things. This module isn't about learning what a variable is — it's about adding a second language to your toolkit and understanding where it fits.
-
-```
-  JavaScript                          Python
-  ──────────────────────────          ──────────────────────────
-  ✓ Browser / frontend                ✓ Machine learning & AI
-  ✓ DOM & UI interactions             ✓ Data science & analytics
-  ✓ Real-time & event-driven          ✓ Automation & scripting
-  ✓ React, Vue, Angular               ✓ Data pipelines & ETL
-  ✓ Backend web (Node/Express)        ✓ Scientific computing
-                                      ✓ Backend web (Django/FastAPI/Flask)
-                                      ✓ Backend AI & data tooling
-
-  JavaScript owns the browser.
-  Python owns data, AI, and science.
-  Both compete on the backend.
-```
-
-
-Python and JavaScript are not competitors — they dominate different parts of the industry. The reason most JS developers pick up Python isn't to replace Node. It's because the work they want to do next — training models, processing data, building AI pipelines, automating infrastructure — is happening in Python. The libraries, the documentation, the job postings, and the open source ecosystem are all there.
-
-Python was also designed from the start to be readable. Its syntax is intentionally close to plain English, which means you'll be productive faster than you might expect. The bigger adjustment isn't the syntax — it's the ecosystem and tooling.
-
-## What Python Does That JavaScript Doesn't (Well)
-
-This is the practical reason most JS devs pick up Python:
-
-**Machine learning & AI.** PyTorch, TensorFlow, scikit-learn, and Hugging Face are all Python-first. There are JS ports of some of these, but the ecosystem, documentation, community, and hiring expectations are built around Python. If you're working with models, you're working in Python.
-
-**Scientific computing.** NumPy, Pandas, and SciPy give Python a numerical computing stack that has no real JS equivalent. Operations on large numerical datasets — matrix math, statistical modeling, data transformation at scale — are orders of magnitude more ergonomic here.
-
-**System scripting & automation.** Python ships on virtually every Unix system and integrates naturally with the OS. Shell scripting with Python is cleaner and more maintainable than Bash, and it handles file I/O, process management, and system calls with a straightforward standard library.
-
-**Data pipelines & ETL.** Apache Airflow, Prefect, and most enterprise data tooling is Python-based. If your backend feeds a data team, they're almost certainly consuming Python.
-
-## What JavaScript Does That Python Doesn't
-
-Be honest about the tradeoffs:
-
-**Browser execution.** Python does not run natively in the browser. WebAssembly projects like Pyodide exist, but this is not a production pattern. If it runs in a browser, it's JavaScript (or TypeScript).
-
-**Real-time & event-driven UIs.** Node's non-blocking I/O model and React's component paradigm are purpose-built for interactive UIs. Python's async story (`asyncio`) is capable, but it's not where the ecosystem shines.
-
-**Full-stack in one language.** With Node/Express on the backend and React on the frontend, you can stay in JS end-to-end. Python forces a language boundary — your frontend is still JavaScript.
-
-**Startup ecosystem defaults.** Most early-stage web product backends default to Node, not Python, simply because frontend devs can contribute. Python backends (Django, FastAPI, Flask) are common in data-heavy products, but not the default for generic web apps.
-
 ## How Python Thinks Differently
 
 You'll feel at home quickly, but these will catch you:
