@@ -6,7 +6,7 @@
 ![Covers](https://img.shields.io/badge/Covers-Backend%20%7C%20APIs%20%7C%20Automation%20%7C%20AI-informational)
 ![Outcome](https://img.shields.io/badge/Outcome-Multi--Language%20Engineer-purple)
 
-> **A hands-on course for JavaScript fullstack developers who are ready to think beyond the browser.**
+> **A A hands-on course for JavaScript fullstack developers who are ready to think beyond the Node ecosystem.**
 
 You already know how to build things. You've shipped APIs, wired up databases, and reasoned through fullstack architecture. This course isn't about learning to code — it's about learning a second language and unlocking a completely different part of the industry.
 
