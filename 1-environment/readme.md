@@ -1,6 +1,4 @@
-# Python for JavaScript Developers
-
-## How Python Thinks Differently
+# How Python Thinks Differently
 
 You'll feel at home quickly, but these will catch you:
 
