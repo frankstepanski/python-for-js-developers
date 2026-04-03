@@ -13,7 +13,7 @@ You already know how to build things. You've shipped APIs, wired up databases, a
 ```
   JavaScript                          Python
   ──────────────────────────          ──────────────────────────
-  ✓ Browser / frontend                ✓ Machine learning & AI
+  ✓ Browser / fronten                ✓ Machine learning & AI
   ✓ DOM & UI interactions             ✓ Data science & analytics
   ✓ Real-time & event-driven          ✓ Automation & scripting
   ✓ React, Vue, Angular               ✓ Data pipelines & ETL
