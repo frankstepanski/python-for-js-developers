@@ -546,12 +546,6 @@ Step 4 is the Python equivalent of `npm install` — it reads `requirements.txt`
 | `package.json` | `requirements.txt` |
 | `npm install` | `pip install` |
 | `node index.js` | `python main.py` / `python3 main.py` |
-| `null` / `undefined` | `None` |
-| `true` / `false` | `True` / `False` |
-| `===` | `==` (no strict equality needed — no type coercion) |
-| Template literals | f-strings |
-| `this` | `self` (explicit) |
-| Arrow functions | `lambda` (limited) / `def` |
 
 ## Run Your First Script
 
