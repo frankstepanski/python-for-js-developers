@@ -95,7 +95,7 @@ Learning Python as a JS developer isn't about starting over. The fundamentals yo
 
 ## 🛠️ Getting Started
 
-Head to [`01-environment`](./01-environment/) to get your Python environment set up. If you've never used Python before, don't skip this — the environment works very differently from Node and it's worth understanding before writing a single line of code.
+Head to [`1-environment`](./1-environment/) to get your Python environment set up. If you've never used Python before, don't skip this — the environment works very differently from Node and it's worth understanding before writing a single line of code.
 
 ## License
 
